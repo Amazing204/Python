@@ -6,11 +6,15 @@ Numeric Data Types:
 int: Represents integers (whole numbers). Example: x = 5
 float: Represents floating-point numbers (numbers with decimal points). Example: y = 3.14
 complex: Represents complex numbers. Example: z = 2 + 3j
+
+
 Sequence Types:
 
 str: Represents strings (sequences of characters). Example: text = "Hello, World"
 list: Represents lists (ordered, mutable sequences). Example: my_list = [1, 2, 3]
 tuple: Represents tuples (ordered, immutable sequences). Example: my_tuple = (1, 2, 3)
+
+
 Mapping Type:
 
 dict: Represents dictionaries (key-value pairs). Example: my_dict = {'name': 'John', 'age': 30}
